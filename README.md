@@ -13,6 +13,10 @@
 - **Ask Devin:** We asked the questions a new owner would ask the previous engineer, like "What happens when someone searches for a company?" and "Where's the code that handles expired logins?" Devin pointed to the exact files in each answer.
 - **Handoff guide:** In about 5 minutes Devin wrote the missing "owner's manual" and flagged risks it found, such as outdated files, wrong instructions in the README and mismatched settings. It ran all 151 tests first to confirm the tool works.
 
+## Outcome
+
+A complete handoff guide in about 5 minutes. It added 1 new document, changed 0 lines of the app's code and contacted 0 ZoomInfo systems. It went in as a proposed change for the team to review.
+
 ## Results
 
 | ~5 min | 151 / 151 | 1 file | 0 |
