@@ -23,6 +23,10 @@ A complete handoff guide in about 5 minutes. It added 1 new document, changed 0 
 |:-:|:-:|:-:|:-:|
 | To write the handoff guide | Tests run and passing | Added, with no app code changed | ZoomInfo systems contacted |
 
+## Why it matters
+
+Getting up to speed on someone else's code usually takes weeks. Devin turns that into a same-day knowledge transfer, and it backs up every claim with the exact file.
+
 ## Follow along: 5 steps
 
 ### 1. The repo you inherit
