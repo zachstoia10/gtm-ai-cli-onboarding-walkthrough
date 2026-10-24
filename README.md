@@ -6,9 +6,12 @@
 
 ## What you're looking at
 
-| The situation | What Devin did |
-|---|---|
-| Engineering ownership is being reassigned. You inherit gtm-ai-cli on Monday, the previous owner has moved on, and there's no knowledge transfer document. | Devin explained the codebase (DeepWiki), answered a new owner's questions with citations (Ask Devin), and wrote the missing handoff guide, delivered as a pull request. |
+**The situation:** A new engineer takes over this tool on Monday. The previous owner has moved on and left no handoff notes and nobody to ask. That's very common at big companies.
+
+**What Devin did:**
+- **DeepWiki:** Devin read the whole codebase and wrote a wiki-style guide to it, with diagrams and a page for each part. Every section links to the exact file it describes.
+- **Ask Devin:** We asked the questions a new owner would ask the previous engineer, like "What happens when someone searches for a company?" and "Where's the code that handles expired logins?" Devin pointed to the exact files in each answer.
+- **Handoff guide:** In about 5 minutes Devin wrote the missing "owner's manual" and flagged risks it found, such as outdated files, wrong instructions in the README and mismatched settings. It ran all 151 tests first to confirm the tool works.
 
 ## Results
 
